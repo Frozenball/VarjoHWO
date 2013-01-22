@@ -1,0 +1,1 @@
+Tämä node.js-ohjelma simuloi Hello World Open -kilpailun palvelimia.
